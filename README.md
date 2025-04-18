@@ -45,6 +45,3 @@ If you’d like to contribute to this ridiculous repository, open a pull request
 ---
 
 Thanks for stopping by! Now go forth and embrace the stupidity of Gentoo-extra.
-```
-
-Let me know if you'd like any changes or additions!
