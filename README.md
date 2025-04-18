@@ -1,4 +1,3 @@
-```markdown
 # Gentoo-extra Overlay
 
 Welcome to **Gentoo-extra**, the most absurd and nonsensical Gentoo overlay you’ll ever encounter! This repository is a labor of chaos and, dare I say, brilliance that **belongs entirely to me**—the one and only **powerslaty**.
